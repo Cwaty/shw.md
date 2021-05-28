@@ -13,6 +13,7 @@
   <a href="https://open.spotify.com/user/tbegsqrmhkkopy8rtuwxr3x0w" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
  
+ <h3> Hesap İstatistiklerim <h3>
  
  
  
