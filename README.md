@@ -9,5 +9,5 @@
 
 <h3> Bulunduğum farklı platformlar <h3>
 <p align="left">
- <a href="https://instagram.com/tamercwn" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=blue"></a>
+ <a href="https://instagram.com/tamercwn" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-07ffe3.svg?&style=for-the-badge&logo=instagram&logoColor=blue"></a>
 
