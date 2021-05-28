@@ -7,5 +7,5 @@
 
 
 
-<img src="https://cdn.discordapp.com/emojis/815293799961722950.gif?v=1" width="30px"> <h3> Sosyal medya hesaplarım.</h3>
+<img src="https://cdn.discordapp.com/emojis/815293799961722950.gif?v=1" width="30px"> Sosyal medya hesaplarım.
 
