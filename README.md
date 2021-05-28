@@ -7,5 +7,7 @@
 
 
 
-<img src="https://cdn.discordapp.com/emojis/815293799961722950.gif?v=1" width="30px"> Sosyal medya hesaplarım.
+<h3> Bulunduğum farklı platformlar <h3>
+<p align="left">
+ <a href="https://instagram.com/tamercwn" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=blue"></a>
 
