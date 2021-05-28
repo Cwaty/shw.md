@@ -5,3 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Cwaty&label=Ziyaretçi%20Sayısı&color=3bb94e" alt="Cwaty" />
 
+
+
+<img src="https://cdn.discordapp.com/emojis/815293799961722950.gif?v=1" width="30px"> <h3 Sosyal medya hesaplarım.</h3>
+
