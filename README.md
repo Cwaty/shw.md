@@ -14,7 +14,7 @@
 </p>
  
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cwaty)  
+![GitHub Aktivite Grafiği](https://activity-graph.herokuapp.com/graph?username=Cwaty)  
 
 
 
