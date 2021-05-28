@@ -2,4 +2,8 @@
 
 • Selam arkadaşlar ben Sherwood bazılarınızın bildiği üzerine Tamercan. 1 yıldır arkadaşlarımla beraber Discord üzerinde oyunlar oynayıp kendi kendi kendine eğlenen biriyim.
 
+
 <img src="https://komarev.com/ghpvc/?username=Cwaty&label=Ziyaretçi%20Sayısı&color=3bb94e" alt="Cwaty" />
+
+
+<a target="blank" href="https://www.instagram.com/tamercwn/"> <i class="icon ion ion-social-instagram"> </i>
